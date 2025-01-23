@@ -1,0 +1,5 @@
+
+[hosts]
+15.236.224.244 ansible_user=ubuntu ansible_port=22 ansible_ssh_private_key_file="my-terraform-key.pem"
+15.237.84.23 ansible_user=ubuntu ansible_port=22 ansible_ssh_private_key_file="my-terraform-key.pem"
+52.47.101.93 ansible_user=ubuntu ansible_port=22 ansible_ssh_private_key_file="my-terraform-key.pem"
